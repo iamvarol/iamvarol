@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iamvarol
-- 👀 I’m interested in Natural Language Processing NLP.
-- 🌱 I’m currently learning TFX
+- 👀 I’m interested in Natural Language Processing.
 - 💞️ I’m looking to collaborate on BERT based NLP.
 - 📫 How to reach me a.emrevarol@gmail.com
 
