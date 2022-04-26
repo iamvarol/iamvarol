@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @iamvarol
-- 👀 I’m interested in Natural Language Processing.
-- 💞️ I’m looking to collaborate on BERT based NLP.
+- 👀 I’m interested in Natural Language Processing and creating Knowledge Graphs.
+- 🥑 I'm a certified Neo4j Professional.
+- 💞️ I’m looking to collaborate on Data Science and .
 - 📫 How to reach me a.emrevarol@gmail.com
 
 <!---
